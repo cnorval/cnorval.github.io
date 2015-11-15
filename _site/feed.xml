@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Norval</title>
-    <description>A blog on R programming, statistics, machine learning and data science.</description>
+    <description>A blog on R, statistics, machine learning and data science.</description>
     <link>http://cnorval.github.io/</link>
     <atom:link href="http://cnorval.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 15 Nov 2015 15:03:27 +0000</pubDate>
-    <lastBuildDate>Sun, 15 Nov 2015 15:03:27 +0000</lastBuildDate>
+    <pubDate>Sun, 15 Nov 2015 15:29:21 +0000</pubDate>
+    <lastBuildDate>Sun, 15 Nov 2015 15:29:21 +0000</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -27,7 +27,7 @@
 
 &lt;p&gt;You can also embed plots, for example:&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Rfig/unnamed-chunk-2-1.png&quot; alt=&quot;plot of chunk unnamed-chunk-2&quot; /&gt; &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/Rfig/unnamed-chunk-2-1.png&quot; alt=&quot;plot of chunk unnamed-chunk-2&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Note that the &lt;code&gt;echo = FALSE&lt;/code&gt; parameter was added to the code chunk to prevent printing of the R code that generated the plot.&lt;/p&gt;
 </description>

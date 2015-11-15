@@ -1,4 +1,5 @@
+_site
+node_modules
 .Rproj.user
 .Rhistory
 .RData
-_site

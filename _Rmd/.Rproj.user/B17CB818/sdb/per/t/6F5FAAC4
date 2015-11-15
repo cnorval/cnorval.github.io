@@ -1,0 +1,17 @@
+{
+    "contents" : "---\nlayout:     post\ntitle:      \"Test Demo\"\nauthor:     \"Chris Norval\"\ndate:       2015-11-15 14:38:00\noutput: \n  md_document:\n    variant: markdown_github\nheader-img: \"img/post-bg-06.jpg\"\n---\n\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.\n\nWhen you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\n```{r}\nsummary(cars)\n```\n\nYou can also embed plots, for example:\n\n```{r, echo=FALSE}\nplot(cars)\n```\n\nNote that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.\n",
+    "created" : 1447599793946.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2380087716",
+    "id" : "6F5FAAC4",
+    "lastKnownWriteTime" : 1447598400,
+    "path" : "~/source/cnorval.github.io/_Rmd/2015-11-15-R-Demo.Rmd",
+    "project_path" : "2015-11-15-R-Demo.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_markdown"
+}

@@ -7,7 +7,7 @@ baseurl: ""
 url: "http://cnorval.github.io"
 twitter_username: cnorval
 github_username:  cnorval
-facebook_username:  cnorval
+facebook_username: 
 
 # Build settings
 markdown: kramdown

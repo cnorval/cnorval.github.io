@@ -2,10 +2,11 @@
 title: Chris Norval
 header-img: img/home-bg.jpg
 email: blog@cnorval.com
-description: "A blog on R, statistics, machine learning and data science."
+description: "A blog on R, statistics, machine learning, and data science."
 baseurl: ""
 url: "http://cnorval.github.io"
 twitter_username: cnorval
+linkedin_username: cnorval
 github_username:  cnorval
 
 # Build settings

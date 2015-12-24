@@ -131,7 +131,7 @@ transcript <- transcript %>%
 
 I tend to prefer `dplyr` over `data.table`, but you can't really go wrong knowing both. The `data.table` package allows you to easily assign a new value to a subset of your data based on a condition, as was done with speaker names in the previous step. 
 
-So now we have the transcript in a more usable format, all we have to do to is call the get_sentiment function on the text column, and store the returning numbers in a new column.
+So now we have the transcript in a more usable format, all we have to do to is call the `get_sentiment()` function on the text column, and store the returning numbers in a new column.
 
 
 {% highlight r %}
@@ -225,7 +225,7 @@ transcript %>%
     geom_line(size = 1) + 
     scale_color_manual(values = colourList) +
     scale_x_continuous(name = "\nTime", breaks = NULL) +
-    scale_y_continuous(name = "Sentiment\n", breaks = seq(-15, 15, by=5)) +
+    scale_y_continuous(name = "Sentiment\n", breaks = seq(0, 15, by=5)) +
     facet_grid(speaker ~ emotion) + 
     myTheme
 {% endhighlight %}
